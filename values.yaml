@@ -123,7 +123,7 @@ customHTAccessCM:
 # smtpUsername:
 # smtpProtocol:
 
-replicaCount: 3
+replicaCount: 1
 
 ## Additional container environment variables
 ## Example: Configure SSL for database
